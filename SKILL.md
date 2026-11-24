@@ -11,7 +11,7 @@ description: Plan, evaluate, and grow game sites using the user's knowledge base
 - 需要补找新游戏来源、解释趋势或深入分析竞品时，读 [选词与验证](references/discovery.md)。
 - 决定做攻略、Wiki、倒计时或工具，或者规划上线、扩内容及外链时，读 [页面与运营](references/operations.md)。
 - 要让用户直接玩游戏，涉及原创、许可代码、发行平台嵌入、分类聚合、从单游戏扩展或小游戏变现时，读 [在线小游戏与聚合站](references/playable-sites.md)。
-- 用户要系统汇总或核对出处时，读取涉及的各参考文件末尾的来源索引。把哥飞本人分享、群友复盘、整理笔记和你的实操推论分开标注。
+- 参考文件末尾的来源索引用于注明方法出处。日常执行使用随 Skill 提供的参考文件即可。只有用户要求核对原文时，才使用用户提供或当前环境可访问的原文。把哥飞本人分享、群友复盘、整理笔记和实操推论分开标注。
 
 ## 决策流程
 
